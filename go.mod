@@ -1,4 +1,4 @@
-module github.com/warijo/redismock
+module github.com/warijo/redismock/v2
 
 go 1.14
 
